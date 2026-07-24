@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Dark e-commerce theme */
+  --background: #1a1a2e;
+  --surface: #16213e;
+  --foreground: #ffffff;
+  --muted: #8892a4;
+  --primary: #e94560;
+  --accent: #f5a623;
+  --border: #0f3460;
+  --surface-alt: #0f3460;
+
+  /* Design system extras */
+  --brand-primary: #059669;
+  --brand-on-primary: #ffffff;
+  --brand-secondary: #10b981;
+  --brand-accent: #ea580c;
+  --brand-background: #ecfdf5;
+  --brand-foreground: #064e3b;
+  --brand-card: #ffffff;
+  --brand-muted: #e8f1f3;
+  --brand-muted-foreground: #64748b;
+  --brand-border: #a7f3d0;
+  --brand-ring: #059669;
+  --brand-destructive: #dc2626;
+
+  /* Radius */
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Nunito Sans', sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+  line-height: 1.2;
+}
+
+/* Focus visible */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}

@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "newsletter": "Boletín",
+    "shopNow": "Comprar Ahora"
+  },
+  "hero": {
+    "heading": "Estilo que se mueve tan rápido como tú",
+    "body": "Descubre los lanzamientos más audaces de la temporada — desde esenciales de streetwear hasta piezas de impacto. Envío gratis en pedidos mayores a $50, y los cambios siempre corren por nuestra cuenta.",
+    "cta": "Comprar Nuevos Lanzamientos",
+    "perks": [
+      "Free shipping on orders over $50",
+      "Easy 30-day returns — no questions asked",
+      "New drops every Friday"
+    ]
+  },
+  "categoryFilter": {
+    "heading": "Explorar por Categoría",
+    "body": "Filtra nuestras colecciones curadas y encuentra exactamente lo que buscas.",
+    "items": [
+      "All Products",
+      "New Arrivals",
+      "Tops & Tees",
+      "Bottoms",
+      "Outerwear",
+      "Footwear",
+      "Accessories",
+      "Sale"
+    ]
+  },
+  "productGrid": {
+    "heading": "Tendencia Ahora",
+    "body": "Estilos seleccionados que nuestra comunidad adora esta semana.",
+    "items": [
+      {
+        "name": "Oversized Graphic Tee",
+        "price": 34.99,
+        "originalPrice": 49.99,
+        "rating": 5,
+        "reviewCount": 218,
+        "salePercentage": 30,
+        "category": "Tops & Tees",
+        "image": "/images/oversized-graphic-tee-streetwear.jpg"
+      },
+      {
+        "name": "Slim-Fit Cargo Pants",
+        "price": 79.99,
+        "originalPrice": null,
+        "rating": 4,
+        "reviewCount": 145,
+        "salePercentage": null,
+        "category": "Bottoms",
+        "image": "/images/slim-fit-cargo-pants-fashion.jpg"
+      },
+      {
+        "name": "Puffer Vest in Midnight Navy",
+        "price": 89.99,
+        "originalPrice": 119.99,
+        "rating": 5,
+        "reviewCount": 302,
+        "salePercentage": 25,
+        "category": "Outerwear",
+        "image": "/images/puffer-vest-midnight-navy.jpg"
+      },
+      {
+        "name": "Classic White Sneakers",
+        "price": 64.99,
+        "originalPrice": null,
+        "rating": 4,
+        "reviewCount": 87,
+        "salePercentage": null,
+        "category": "Footwear",
+        "image": "/images/classic-white-sneakers-minimal.jpg"
+      },
+      {
+        "name": "Ribbed Knit Beanie",
+        "price": 19.99,
+        "originalPrice": 27.99,
+        "rating": 5,
+        "reviewCount": 411,
+        "salePercentage": 29,
+        "category": "Accessories",
+        "image": "/images/ribbed-knit-beanie-winter.jpg"
+      },
+      {
+        "name": "Washed Denim Jacket",
+        "price": 109.99,
+        "originalPrice": null,
+        "rating": 4,
+        "reviewCount": 193,
+        "salePercentage": null,
+        "category": "Outerwear",
+        "image": "/images/washed-denim-jacket-vintage.jpg"
+      },
+      {
+        "name": "Crossbody Canvas Bag",
+        "price": 44.99,
+        "originalPrice": 59.99,
+        "rating": 5,
+        "reviewCount": 76,
+        "salePercentage": 25,
+        "category": "Accessories",
+        "image": "/images/crossbody-canvas-bag-urban.jpg"
+      },
+      {
+        "name": "Thermal Zip-Up Hoodie",
+        "price": 69.99,
+        "originalPrice": null,
+        "rating": 4,
+        "reviewCount": 230,
+        "salePercentage": null,
+        "category": "Tops & Tees",
+        "image": "/images/thermal-zip-up-hoodie-cozy.jpg"
+      }
+    ]
+  },
+  "newsletter": {
+    "heading": "Acceso Prioritario a Cada Lanzamiento",
+    "body": "Únete a más de 40,000 compradores que obtienen acceso anticipado a nuevos lanzamientos, códigos de descuento exclusivos y guías de estilo entregadas directamente en tu bandeja de entrada. Sin spam — solo lo mejor.",
+    "cta": "Suscribirse y Ahorrar 10%",
+    "perks": [
+      "Exclusive subscriber-only discount codes",
+      "Early access to new collections before they go live",
+      "Weekly style guides curated by our in-house team"
+    ]
+  },
+  "footer": {
+    "tagline": "Estilo audaz para gente audaz.",
+    "copyright": "© 2024 Nova Shop. Todos los derechos reservados."
+  }
+}
